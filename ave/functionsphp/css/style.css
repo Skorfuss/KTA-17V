@@ -1,0 +1,33 @@
+body {
+	color:#000000;
+	background-color:#25bca3;
+	margin:0;
+}
+
+#container {
+	background-color:#33875e;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:solid;
+	border-color:#16A085;
+	border-radius: 10%;
+}
+
+#gray {
+	filter: grayscale(1);
+}
+
+#gray {
+	background-color:#25bca3;
+	text-align: center;
+	}
+
+	div
+	{
+		background-color:#33875e;
+		text-align: center;
+	}
